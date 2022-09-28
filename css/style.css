@@ -257,7 +257,7 @@ nav ul li button:hover{
     height: 600px;
 }
 .main2{
-    background-image: url(/pictures/1920\ 1080.png);
+    background-image: url(./1920\ 1080.png);
     background-size: 100%;
     background-attachment: fixed;
     width: 100%;
